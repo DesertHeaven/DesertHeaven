@@ -39,7 +39,7 @@ I’m a frontend developer with 3+ years of experience.
 <details>
   <summary>Internship: Лига Цифровой Экономики, 2025</summary>
   
-  <img width="400" height="593" alt="Liga" src="https://github.com/user-attachments/assets/b9dff4ee-8405-4b3b-ad5b-7684a2116bd6" />
+  <img width="400" height="800" alt="LIGA_certificate" src="https://github.com/user-attachments/assets/2450a6bb-8c9a-48f1-b3cd-4f6c5a08899d" />
 </details>
 
 📫 contact me: dev.shm7@gmail.com
