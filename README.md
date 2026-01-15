@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hi everyone, my name is Maxim Shabanov
 
-<!--
-**DesertHeaven/DesertHeaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![github2](https://github.com/user-attachments/assets/ed8ce00e-c0f2-41f9-86c4-ba00a6c6e6cf)
 
-Here are some ideas to get you started:
+I’m a frontend developer with 3+ years of experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>⚡My technology stack:</summary>
+  
+  - HTML5, JSX
+  - CSS3, preprocessor SASS (SCSS)
+  - Flexbox, CSS Grid
+  - BEM, A11y, Feature-Sliced Design (architectural methodology)
+  - Bootstrap, Material UI (MUI)
+  - JavaScript (ES6+), TypeScript, OOP 
+  - React | Vue (component-based architecture)
+  - React Ecosystem: Context API, Redux (Redux Toolkit), React Router DOM, React Hook Form, React Query
+  - Vue Ecosystem: Vue 2 [Legacy] (Options API), Vuex, Vue router
+  - Lodash, i18n, Yup
+  - REST API, Swagger/OpenAPI, Axios
+  - NVM, Node.js/npm, pnpm
+  - Gulp, Webpack, Vite
+  - Git (GitHub | GitLab), GitFlow
+  - Prettier, Stylelint, ESLint
+  - Adobe Photoshop, Figma
+  - (Kanban, Scrum)
+</details>
+
+📫 contact me: dev.shm7@gmail.com
+🔭 Focused on personal projects
