@@ -1,6 +1,6 @@
 👋 Hi everyone, my name is Maxim Shabanov.
 
-<img width="296" height="296" alt="Untitled (1)" src="https://github.com/user-attachments/assets/555c4b00-d21d-4c08-bd68-83a33fa8833b" />
+<img width="296" height="296" alt="Untitled" src="https://github.com/user-attachments/assets/49f376d2-bda3-4739-8a6d-226436ade944" />
 
 I’m a frontend developer with 3+ years of experience.
 
